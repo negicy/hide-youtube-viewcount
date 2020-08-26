@@ -1,0 +1,18 @@
+{
+    "name": "hide-youtube-viewcount",
+    "author": "Kanta Negishi",
+    "description": "Hide viewcounts of Youtube movies.",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "web_accessible_resources": ["*"],
+    "permissions": ["storage"],
+    "content_scripts": [
+      
+      {
+        "matches": ["https://www.youtube.com/*"],
+        "css": ["google/style.css"],"js": ["google/script.js"]
+      }
+    ]
+      
+    
+  }

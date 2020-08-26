@@ -1,0 +1,9 @@
+
+span[class*="view-count"]{
+  display: none;
+
+}
+
+#metadata-line :first-of-type {
+  display: none;
+}
