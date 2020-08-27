@@ -3,4 +3,5 @@ hide-youtube-viewcount is a chrome extension to hide viewcounts of youtube video
 
 # Usage
 ・Download the source code files  
-・Access chrome://extensions/ and load them
+・Access chrome://extensions/ and load files
+
