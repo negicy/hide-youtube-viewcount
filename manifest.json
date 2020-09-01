@@ -10,7 +10,7 @@
       
       {
         "matches": ["https://www.youtube.com/*"],
-        "css": ["google/style.css"],"js": ["google/script.js"]
+        "css": ["youtube/style.css"]
       }
     ]
       
